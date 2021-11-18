@@ -4,7 +4,7 @@ AgeGuesser is an end-to-end, deep-learning based Age Estimation system, presente
 
 You can find the related paper on:
 - [ResearchGate](https://www.researchgate.net/publication/355777953_Real-Time_Age_Estimation_from_Facial_Images_Using_YOLO_and_EfficientNet)
-- [Springer] (https://link.springer.com/chapter/10.1007/978-3-030-89131-2_25)
+- [Springer](https://link.springer.com/chapter/10.1007/978-3-030-89131-2_25)
 
 ## Citing AgeGuesser
 
