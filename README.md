@@ -1,8 +1,10 @@
 # AgeGuesser
 
-AgeGuesser is an end-to-end, deep-learning based, Age Estimation system.
+AgeGuesser is an end-to-end, deep-learning based Age Estimation system, presented at the [CAIP 2021 conference](http://cyprusconferences.org/caip2021/).
 
-You can find the related paper at the following [URL](https://www.researchgate.net/publication/355777953_Real-Time_Age_Estimation_from_Facial_Images_Using_YOLO_and_EfficientNet). 
+You can find the related paper on:
+- [ResearchGate](https://www.researchgate.net/publication/355777953_Real-Time_Age_Estimation_from_Facial_Images_Using_YOLO_and_EfficientNet)
+- [Springer] (https://link.springer.com/chapter/10.1007/978-3-030-89131-2_25)
 
 ## Citing AgeGuesser
 
