@@ -8,8 +8,8 @@ You can find the related paper on:
 
 ## Datasets
 
-- face detection -> [WIDER Face](http://shuoyang1213.me/WIDERFACE/)
-- age estimation -> [MIVIA Age](https://gta2021.unisa.it/)
+- Face Detection -> [WIDER Face](http://shuoyang1213.me/WIDERFACE/)
+- Age Estimation -> [MIVIA Age](https://gta2021.unisa.it/)
 
 ## Citing AgeGuesser
 
