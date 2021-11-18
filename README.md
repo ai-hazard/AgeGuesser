@@ -6,6 +6,11 @@ You can find the related paper on:
 - [ResearchGate](https://www.researchgate.net/publication/355777953_Real-Time_Age_Estimation_from_Facial_Images_Using_YOLO_and_EfficientNet)
 - [Springer](https://link.springer.com/chapter/10.1007/978-3-030-89131-2_25)
 
+## Datasets
+
+- face detection -> [WIDER Face](http://shuoyang1213.me/WIDERFACE/)
+- age estimation -> [MIVIA Age](https://gta2021.unisa.it/)
+
 ## Citing AgeGuesser
 
 If you find AgeGuesser useful in your research or wish to refer to the baseline results, please use the following BibTeX entry.
